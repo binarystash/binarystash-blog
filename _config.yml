@@ -1,0 +1,16 @@
+# Site settings
+title: BinaryStash
+email: binarystash01@gmail.com
+description: I am a web developer and BinaryStash is my playground. I publish code and tutorials for other developers to use and develop.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  binarystash
+wordpress_profile: binarystash01
+jsfiddle_profile: binarystash
+disclaimer: Site content licensed under CC BY-SA 3.0
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 5

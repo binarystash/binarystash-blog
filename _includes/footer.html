@@ -1,0 +1,76 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>{{ site.title }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}">
+              <i class="fa fa-github"></i>
+              <span class="username">{{ site.github_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.wordpress_profile %}
+          <li>
+            <a href="http://profiles.wordpress.org/{{ site.wordpress_profile }}">
+              <i class="fa fa-wordpress"></i>
+              <span class="username">{{ site.wordpress_profile }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.jsfiddle_profile %}
+          <li>
+            <a href="http://jsfiddle.net/user/{{ site.jsfiddle_profile }}/fiddles/">
+              <i class="fa fa-jsfiddle"></i>
+              <span class="username">{{ site.jsfiddle_profile }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              <i class="fa fa-twitter"></i>
+              <span class="username">{{ site.twitter_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+          <li>
+              <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                <i class="fa fa-rss"></i>
+                <span class="username">subscribe to rss</span>
+              </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">{{ site.description }}</p>
+      </div>
+
+      <div class="clearfix"></div>
+      
+      <p class="disclaimer">{{ site.disclaimer }}</p>
+
+    </div>
+
+  </div>
+
+
+
+</footer>
+
