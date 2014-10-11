@@ -1,7 +1,7 @@
 ---
 title: "Automatically opening external links in new window on Wordpress"
 layout: "post"
-permalink: "/2014/02/using-typesrenderfield-outside-main-loop.html"
+permalink: "/2014/02/opening-external-links-in-new-window.html"
 ---
 
 The function below makes all external links on posts and pages open in new window. Place it in *functions.php*.
