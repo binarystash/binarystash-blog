@@ -10,7 +10,7 @@ Like *wp\_get\_nav\_menu\_items()*, the following function returns an array of m
 <?php
 
 /*
- * Returns an array of menu items with hierarchy
+ * Returns an array of menu items ni nested hierarchy
  *
  * @param $location string - menu location
  *
