@@ -1,5 +1,5 @@
 ---
-title: "Geting Wordpress menu items as an array"
+title: "Getting Wordpress menu items as an array"
 layout: "post"
 permalink: "/2014/10/getting-wordpress-menu-items-as-an-array.html"
 ---
@@ -10,7 +10,7 @@ Like *wp\_get\_nav\_menu\_items()*, the following function returns an array of m
 <?php
 
 /*
- * Returns an array of menu items with hierarchy
+ * Returns an array of menu items in nested hierarchy
  *
  * @param $location string - menu location
  *
