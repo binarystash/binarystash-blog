@@ -12,5 +12,5 @@ disclaimer: Site content licensed under CC BY-SA 3.0
 # Build settings
 markdown: redcarpet
 highlighter: pygments
-comments: true
+comments: false
 paginate: 5
