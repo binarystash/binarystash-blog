@@ -1,11 +1,14 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width"/>
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.description }}"/>
 
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/fonts/font-awesome-4.2.0/css/font-awesome.min.css" | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ '/fonts/font-awesome-4.2.0/css/font-awesome.min.css' | prepend: site.baseurl }}"/>
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
+	
+	<script type="text/javascript" src="{{ '/js/js-1.6-polyfill.js' | prepend: site.baseurl }}"></script>
+	<script type="text/javascript" src="{{ '/js/respond.min.js' | prepend: site.baseurl }}"></script>
 </head>
