@@ -1,5 +1,5 @@
 ---
-title: "[Tomate firmware] Assigning a static IP to a computer on the local network"
+title: "Assigning a static IP to a computer on the local network on Tomato"
 layout: "post"
 permalink: "/2011/11/tomato-assigning-static-ip-to-computer.html"
 ---
