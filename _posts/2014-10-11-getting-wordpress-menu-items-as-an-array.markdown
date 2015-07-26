@@ -9,7 +9,7 @@ Like *wp\_get\_nav\_menu\_items()*, the following function returns an array of m
 {% highlight php %}
 <?php
 
-/*
+/**
  * Returns an array of menu items in nested hierarchy
  *
  * @param $location string - menu location
