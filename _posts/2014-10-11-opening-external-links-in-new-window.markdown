@@ -6,7 +6,7 @@ permalink: "/2014/02/opening-external-links-in-new-window.html"
 
 The function below makes all external links on posts and pages open in new window. Place it in *functions.php*.
 
-Alternatively, get it as a [Wordpress plugin](https://github.com/binarystash/wp-outside-links-in-new-tabs)
+Alternatively, get it as a [Wordpress plugin](https://github.com/binarystash/wp-outside-links-in-new-tabs).
 
 {% highlight php %}
 <?php
