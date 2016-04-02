@@ -1,6 +1,7 @@
 ---
 title: "Wordpress Power Plugins"
 layout: "post"
+description: Extend Wordpress functionality using advanced plugins
 permalink: "/2013/11/wordpress-power-plugins.html"
 ---
 

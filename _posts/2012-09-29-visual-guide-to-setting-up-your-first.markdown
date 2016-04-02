@@ -1,6 +1,7 @@
 ---
 title: "11-step guide to set up Github using Git Gui"
 layout: "post"
+description: Set up Git GUI for Github
 permalink: "/2012/09/visual-guide-to-setting-up-your-first.html"
 ---
 

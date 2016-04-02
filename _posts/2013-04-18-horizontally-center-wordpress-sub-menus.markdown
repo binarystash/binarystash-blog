@@ -1,6 +1,7 @@
 ---
 title: "Horizontally center Wordpress sub-menus"
 layout: "post"
+description: Align Wordpress submenu under its parent tab
 permalink: "/2013/04/horizontally-center-wordpress-sub-menus.html"
 ---
 

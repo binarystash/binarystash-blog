@@ -3,14 +3,17 @@ title: BinaryStash
 email: binarystash01@gmail.com
 description: I am a web developer and BinaryStash is my playground. I publish code and tutorials for others to use and develop.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.binarystash.net" # the base hostname & protocol for your site
 github_username:  binarystash
 wordpress_profile: binarystash01
 jsfiddle_profile: binarystash
 disclaimer: Site content licensed under CC BY-SA 3.0
 
 # Build settings
+encoding: utf-8
 markdown: redcarpet
 highlighter: pygments
 comments: false
+gems: [jekyll-paginate]
 paginate: 5
+paginate_path: "page:num"

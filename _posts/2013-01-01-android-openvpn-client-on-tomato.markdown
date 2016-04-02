@@ -1,6 +1,7 @@
 ---
 title: "Android OpenVPN client on Tomato OpenVPN server"
 layout: "post"
+description: Connect your Android device to a Tomato OpenVPN server
 permalink: "/2012/12/android-openvpn-client-on-tomato.html"
 ---
 

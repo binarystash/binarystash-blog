@@ -1,6 +1,7 @@
 ---
 title: "Getting Wordpress menu items as an array"
 layout: "post"
+description: Fetch Wordpress menu items as an array
 permalink: "/2014/10/getting-wordpress-menu-items-as-an-array.html"
 ---
 

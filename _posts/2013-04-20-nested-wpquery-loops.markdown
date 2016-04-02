@@ -1,6 +1,7 @@
 ---
 title: "Wordpress nested queries"
 layout: "post"
+description: Safely use nested queries on Wordpress
 permalink: "/2013/04/nested-wpquery-loops.html"
 ---
 

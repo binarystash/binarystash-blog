@@ -1,6 +1,7 @@
 ---
 title: "Fixing WP ShareThis Facebook Like button on IE8"
 layout: "post"
+description: Fix WP ShareThis Like button on IE8
 permalink: "/2013/05/fixing-wp-sharethis-facebook-like.html"
 ---
 

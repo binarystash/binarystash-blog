@@ -1,6 +1,7 @@
 ---
 title: "Assigning a static IP to a computer on the local network on Tomato"
 layout: "post"
+description: Assign a static IP to a computer on the local network on Tomato
 permalink: "/2011/11/tomato-assigning-static-ip-to-computer.html"
 ---
 

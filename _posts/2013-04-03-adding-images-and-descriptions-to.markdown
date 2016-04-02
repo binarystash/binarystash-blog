@@ -1,6 +1,7 @@
 ---
 title: "Adding images and descriptions to Wordpress menu items"
 layout: "post"
+description: Attach images to Wordpress menu items and display them using wp_nav_menu()
 permalink: "/2013/04/adding-images-and-descriptions-to.html"
 ---
 

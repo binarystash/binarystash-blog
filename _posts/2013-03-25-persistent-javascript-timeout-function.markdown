@@ -1,6 +1,7 @@
 ---
 title: "Persistent Javascript timeout function"
 layout: "post"
+description: Make Javascript timeout persistent across page loads
 permalink: "/2013/03/persistent-javascript-timeout-function.html"
 ---
 

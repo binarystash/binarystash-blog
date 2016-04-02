@@ -1,6 +1,7 @@
 ---
 title: "Samsung GT-I5503: Detecting an ad hoc network in Android Froyo"
 layout: "post"
+description: Detect ad hoc networks on Android Froyo
 permalink: "/2011/01/samsung-gt-i5503-detecting-ad-hoc.html"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Replace every nth instance of a string in a string using php"
 layout: "post"
+description: Replace strings in a specified interval
 permalink: "/2015/03/replacing-every-nth-instance-of-a-string-in-a-string-using-php.html"
 ---
 

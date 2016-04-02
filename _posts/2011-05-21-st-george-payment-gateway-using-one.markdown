@@ -1,6 +1,7 @@
 ---
 title: "St. George Payment Gateway: Using one merchant account with multiple websites"
 layout: "post"
+description: Use St. George merchant account with multiple websites
 permalink: "/2011/05/st-george-payment-gateway-using-one.html"
 ---
 

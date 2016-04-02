@@ -1,6 +1,7 @@
 ---
 title: "Getting substring using strings as delimiters in Javascript"
 layout: "post"
+description: Truncate a string using another string as delimiter
 permalink: "/2013/03/getting-substring-using-strings-as.html"
 ---
 

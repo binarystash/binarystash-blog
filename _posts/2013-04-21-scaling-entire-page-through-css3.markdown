@@ -1,6 +1,7 @@
 ---
 title: "Scaling an entire page through CSS3"
 layout: "post"
+descripton: Auto-fit an entire page within the window using CSS3
 permalink: "/2013/04/scaling-entire-page-through-css3.html"
 ---
 

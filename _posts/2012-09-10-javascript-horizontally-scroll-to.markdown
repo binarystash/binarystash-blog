@@ -1,6 +1,7 @@
 ---
 title: "jQuery: Horizontally scroll to the center of a page"
 layout: "post"
+description: Horizontally scroll to the center of a page using jQuery
 permalink: "/2012/09/javascript-horizontally-scroll-to.html"
 ---
 

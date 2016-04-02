@@ -1,6 +1,7 @@
 ---
 title: "Create email users in DV via command-line (for Plesk 10)"
 layout: "post"
+description: Create email users via command-line for Plesk 10
 permalink: "/2011/09/mediatemple-create-email-users-in-dv.html"
 ---
 

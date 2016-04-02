@@ -1,6 +1,7 @@
 ---
 title: "Using types_render_field() outside the main Wordpress loop"
 layout: "post"
+description: Use types_render_field() outside a Wordpress loop
 permalink: "/2014/02/using-typesrenderfield-outside-main-loop.html"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Safely generate an XML document"
 layout: "post"
+description: Generate an XML document using PHP
 permalink: "/2013/03/safely-generate-xml-document.html"
 ---
 

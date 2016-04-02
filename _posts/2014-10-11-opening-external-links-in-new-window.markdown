@@ -1,6 +1,7 @@
 ---
 title: "Automatically opening external links in new window on Wordpress"
 layout: "post"
+description: Identify external links and open them in new windows
 permalink: "/2014/02/opening-external-links-in-new-window.html"
 ---
 

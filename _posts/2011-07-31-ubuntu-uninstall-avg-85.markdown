@@ -1,6 +1,7 @@
 ---
 title: "Ubuntu: Uninstall AVG 8.5"
 layout: "post"
+description: Uninstall AVG 8.5 on Ubuntu
 permalink: "/2011/07/ubuntu-uninstall-avg-85.html"
 ---
 

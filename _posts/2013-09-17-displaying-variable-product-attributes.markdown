@@ -1,6 +1,7 @@
 ---
 title: "Displaying variable product attributes in a custom template"
 layout: "post"
+description: Display variable product attributes in a Woocommerce custom template
 permalink: "/2013/09/displaying-variable-product-attributes.html"
 ---
 

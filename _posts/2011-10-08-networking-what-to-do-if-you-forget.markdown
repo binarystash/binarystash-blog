@@ -1,6 +1,7 @@
 ---
 title: "What to do if you forget your router's admin panel address (Windows)"
 layout: "post"
+description: Identify router's admin panel address on Windows
 permalink: "/2011/10/networking-what-to-do-if-you-forget.html"
 ---
 
