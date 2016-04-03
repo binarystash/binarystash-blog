@@ -12,7 +12,7 @@ disclaimer: Site content licensed under CC BY-SA 3.0
 # Build settings
 encoding: utf-8
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 comments: false
 gems: [jekyll-paginate]
 paginate: 5
